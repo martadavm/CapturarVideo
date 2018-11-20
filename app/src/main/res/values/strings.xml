@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CapturarVideo</string>
+    <string name="capturar">Capturar Video</string>
+    <string name="mensaje">No tengo programa o cámara</string>
+    <string name="mensaje1">Sin permisos de escritura no puedo guardar la imagen en alta resolución.</string>
+</resources>

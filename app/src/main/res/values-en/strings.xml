@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Video Capture</string>
+    <string name="capturar">Video Captura</string>
+    <string name="mensaje1">" Without writing permission I can not save the image in high resolution."</string>
+    <string name="mensaje">I do not have a program or camera</string>
+</resources>
